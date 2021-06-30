@@ -1,2 +1,2 @@
-# Amazon-clone
+# amazon-clon-front and back-end
  
